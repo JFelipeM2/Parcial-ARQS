@@ -38,4 +38,4 @@ API REST sencilla de gestión de tareas, siguiendo separación por capas
 │       └── task.py
 (lo saqué con tree en ubuntu)
 
-PD:el dockerignore fue necesario debido a que trabaje en una carpeta de onedrive y daba errores con ciertos archivos al momento de hacer build.
+
